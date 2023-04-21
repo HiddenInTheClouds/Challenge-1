@@ -1,11 +1,11 @@
-/* Universal Selector */
+/* Universal Selector begins with * */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Element Selectors */
+/* Element Selectors begin with element */
 body {
     background-color: #d9dcd6;
 }
@@ -24,7 +24,7 @@ p {
     font-size: 16px;
 }
 
-/* Class Selectors */
+/* Class Selectors begin with period */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
